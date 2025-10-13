@@ -1,2 +1,2 @@
-# arp-port-scan
+# arp-nmap
 Uses ARP to discover hosts' open ports on the local network
